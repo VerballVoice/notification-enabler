@@ -1,0 +1,12 @@
+{
+  "name": "notification_enabler",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "exec": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
